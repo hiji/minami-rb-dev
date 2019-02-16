@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  title: MyString
+  starton: 2013-02-10 10:34:08
+  endon: 2013-02-10 10:34:08
+  address: MyString
+
+two:
+  title: MyString
+  starton: 2013-02-10 10:34:08
+  endon: 2013-02-10 10:34:08
+  address: MyString
